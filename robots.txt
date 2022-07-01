@@ -1,0 +1,14 @@
+User-agent: Googlebot
+
+User-agent: Slurp
+
+User-agent: bingbot
+
+Allow: /
+
+User-agent: *
+
+Allow: /
+
+Sitemap: http://contact.homelinuxserver.org/sitemap.xml
+
